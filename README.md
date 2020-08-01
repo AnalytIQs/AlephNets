@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src = "./imagenes/logo_alephnets.png" width = "350px">
+  <img src = "./imagenes/logo_alephnets.png" width = "300px">
 </p>
 
 ---
